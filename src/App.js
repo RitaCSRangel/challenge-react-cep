@@ -3,7 +3,7 @@ import './App.css';
 import Banner from './componentes/Header/Header';
 import Footer from './componentes/Footer/Footer';
 import Inicio from './componentes/Inicio/Inicio';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter  as Router, Route, Switch } from 'react-router-dom';
 import Formulario from './componentes/Formulario/Formulario';
 
 function App() {
@@ -16,18 +16,18 @@ function App() {
 
           {/* INÍCIO */}
           <Route
-            exact path="/challenge-react-cep">
+            exact path="/">
             <Inicio></Inicio>
           </Route>
 
           <Route
-            exact path="/challenge-react-cep/inicio">
+            exact path="/inicio">
             <Inicio></Inicio>
           </Route>
 
           {/* INÍCIO */}
           <Route
-            exact path="/challenge-react-cep/formulario">
+            exact path="/formulario">
             <Formulario></Formulario>
           </Route>
 
