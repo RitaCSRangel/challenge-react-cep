@@ -7,7 +7,7 @@ function Banner() {
 
             {/* TÍTULO */}
             <div className="header-titulo">
-                <div className="header-logo-img"><img src="./challenge-react-cep/imagens/logo.png" alt="image"></img></div>
+                <div className="header-logo-img"><img src="../challenge-react-cep/imagens/logo.png" alt="image"></img></div>
                 <p className="header-nome">Consultor de CEP</p>
             </div>
 
@@ -18,7 +18,7 @@ function Banner() {
             </div>
 
             {/* HEADER FINAL IMAGE */}
-            <div className="header-logo-img2"><img src="./challenge-react-cep/imagens/logo2.png" alt="image"></img></div></div>
+            <div className="header-logo-img2"><img src="../challenge-react-cep/imagens/logo2.png" alt="image"></img></div></div>
     );
 }
 

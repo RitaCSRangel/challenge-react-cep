@@ -7,16 +7,16 @@ function Inicio() {
 
             {/* TÍTULO LATERAL */}
             <div className="body-titulo">
-                <div className="body-titulo-upper-img"><img src="./challenge-react-cep/imagens/frontImage2.png" alt="image"></img></div>
+                <div className="body-titulo-upper-img"><img src="../challenge-react-cep/imagens/frontImage2.png" alt="image"></img></div>
                 <span className="body-titulo-txt1">Consultor</span>
                 <span className="body-titulo-txt2">de CEPs</span>
                 <span className="body-titulo-txt3">Online</span>
-                <div className="body-titulo-bottom-img"><img src="./challenge-react-cep/imagens/frontImage1.png" alt="image"></img></div>
+                <div className="body-titulo-bottom-img"><img src="../challenge-react-cep/imagens/frontImage1.png" alt="image"></img></div>
             </div>
 
             {/* TEXTO INTRODUTÓRIO */}
             <div className="body-introdutorio">
-                <div className="body-introdutorio-img"><img className="body-introdutorio-img-size" src="./challenge-react-cep/imagens/frontImage3.png" alt="image"></img></div>
+                <div className="body-introdutorio-img"><img className="body-introdutorio-img-size" src="../challenge-react-cep/imagens/frontImage3.png" alt="image"></img></div>
                 <span className="body-introdutorio-texto"> Esta página é um desafio proposto por uma das equipes de desenvolvimento da Accenture Brasil.
                     Nela, foi contruída uma interface simples, utilizando o framework Angular, que permite preencher um formulário curto que conta
                     com uma consulta de endereço automática através da API viaCEP.</span>
