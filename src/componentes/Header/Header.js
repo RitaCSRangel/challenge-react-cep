@@ -13,8 +13,8 @@ function Banner() {
 
             {/* NAVEGAÇÃO */}
             <div className="header-nav">
-                <Link to="/inicio" className="header-nav-itens">Início</Link>
-                <Link to="/formulario" className="header-nav-itens">Formulário</Link>
+                <Link to="https://ritacsrangel.github.io/challenge-react-cep/inicio" className="header-nav-itens">Início</Link>
+                <Link to="https://ritacsrangel.github.io/challenge-react-cep/formulario" className="header-nav-itens">Formulário</Link>
             </div>
 
             {/* HEADER FINAL IMAGE */}
