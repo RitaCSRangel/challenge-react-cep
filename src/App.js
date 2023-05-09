@@ -16,18 +16,18 @@ function App() {
 
           {/* INÍCIO */}
           <Route
-            exact path="https://ritacsrangel.github.io/challenge-react-cep">
+            exact path="/challenge-react-cep">
             <Inicio></Inicio>
           </Route>
 
           <Route
-            exact path="https://ritacsrangel.github.io/challenge-react-cep/inicio">
+            exact path="/challenge-react-cep/inicio">
             <Inicio></Inicio>
           </Route>
 
           {/* INÍCIO */}
           <Route
-            exact path="https://ritacsrangel.github.io/challenge-react-cep/formulario">
+            exact path="/challenge-react-cep/formulario">
             <Formulario></Formulario>
           </Route>
 
