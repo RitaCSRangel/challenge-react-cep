@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/challenge-react-cep/static/css/main.0b0e56d1.css",
-    "main.js": "/challenge-react-cep/static/js/main.540dae05.js",
+    "main.js": "/challenge-react-cep/static/js/main.61e26102.js",
     "static/js/787.f0962bd6.chunk.js": "/challenge-react-cep/static/js/787.f0962bd6.chunk.js",
     "static/media/logo.svg": "/challenge-react-cep/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/challenge-react-cep/index.html",
     "main.0b0e56d1.css.map": "/challenge-react-cep/static/css/main.0b0e56d1.css.map",
-    "main.540dae05.js.map": "/challenge-react-cep/static/js/main.540dae05.js.map",
+    "main.61e26102.js.map": "/challenge-react-cep/static/js/main.61e26102.js.map",
     "787.f0962bd6.chunk.js.map": "/challenge-react-cep/static/js/787.f0962bd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b0e56d1.css",
-    "static/js/main.540dae05.js"
+    "static/js/main.61e26102.js"
   ]
 }
